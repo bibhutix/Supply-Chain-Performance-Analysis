@@ -1,4 +1,4 @@
-BMW Sales Dashboard | Power BI
+# BMW Sales Dashboard | Power BI
 
 Table of Contents
 Project Overview
@@ -31,26 +31,26 @@ A limited number of key models contribute a significant share of total sales, in
 Regional performance varies due to customer preferences, taxation policies, and operating costs.
 Dashboard Features
 
-🔹 KPI Cards
+# 🔹 KPI Cards
 
 Total Sales – Measures overall unit sales performance
 Total Revenue – Tracks income generated from vehicle sales
 Total Profit – Highlights profitability and operational efficiency
-🔹 Trend Analysis
+# 🔹 Trend Analysis
 
 Line Chart (Year vs Sales)
 Visualizes sales growth and decline over time
 Identifies peak and low-performing years
 Line Chart (Year vs Profit)
 Evaluates margin stability and long-term profitability
-🔹 Regional Analysis
+# 🔹 Regional Analysis
 
 Bar Chart (Sales vs Region)
 Compares regional sales contributions
 Highlights strong and underperforming markets
 Pie Chart (Revenue by Region)
 Displays revenue distribution across regions
-🔹 Product & Pricing Insights
+# 🔹 Product & Pricing Insights
 
 Tree Map (Price vs Sales Volume)
 Identifies models driving the highest revenue
@@ -67,7 +67,7 @@ BMW sales data(2010-2024).csv – dataset from kaggle
 README.md – Project documentation
 Author
 
-How to Use
+# How to Use - 
 
 Download the .pbix file from the repository
 Open it in Power BI Desktop
